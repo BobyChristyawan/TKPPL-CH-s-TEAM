@@ -1,8 +1,8 @@
-TUGAS TKPPL<br> 
+TUGAS TKPPL dengan Topik DOSIS<br> 
 create by : CH'S TEAM<br>
 NAMA ANGGOTA
 
-BOBY CHRISTYAWAN ZAI <br>
-ANNISA PUSPITA SARI<br>	
-FINA RAHAYU	<br>
-ULAN MACHFRIANI <br>
+> 1. Boby Christyawan Zai	      : 141112044
+> 2. Fina Rahayu	   	          : 141111430
+> 3. Ulan Machfriani Sumardi  	: 141113449
+> 4. Annisa Puspita Sari	      : 141112613
